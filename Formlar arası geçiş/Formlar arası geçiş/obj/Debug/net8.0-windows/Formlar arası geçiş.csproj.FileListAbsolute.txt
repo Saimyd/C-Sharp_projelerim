@@ -1,0 +1,16 @@
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\bin\Debug\net8.0-windows\Formlar arası geçiş.exe
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\bin\Debug\net8.0-windows\Formlar arası geçiş.deps.json
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\bin\Debug\net8.0-windows\Formlar arası geçiş.runtimeconfig.json
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\bin\Debug\net8.0-windows\Formlar arası geçiş.dll
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\bin\Debug\net8.0-windows\Formlar arası geçiş.pdb
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar_arası_geçiş.Form1.resources
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.AssemblyInfoInputs.cache
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.AssemblyInfo.cs
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.dll
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\refint\Formlar arası geçiş.dll
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.pdb
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\Formlar arası geçiş.genruntimeconfig.cache
+C:\Users\saim4\source\repos\Formlar arası geçiş\Formlar arası geçiş\obj\Debug\net8.0-windows\ref\Formlar arası geçiş.dll
