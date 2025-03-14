@@ -1,0 +1,28 @@
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.exe
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.deps.json
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.runtimeconfig.json
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.dll
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.pdb
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.AssemblyInfoInputs.cache
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.AssemblyInfo.cs
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.csproj.CoreCompileInputs.cache
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.dll
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\refint\örnek projeler.dll
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.pdb
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.genruntimeconfig.cache
+C:\Users\saim4\source\repos\örnek projeler\örnek projeler\obj\Debug\net8.0\ref\örnek projeler.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.exe
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.deps.json
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.runtimeconfig.json
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\bin\Debug\net8.0\örnek projeler.pdb
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.AssemblyInfoInputs.cache
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.AssemblyInfo.cs
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.csproj.CoreCompileInputs.cache
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\refint\örnek projeler.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.pdb
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\örnek projeler.genruntimeconfig.cache
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\örnek projeler\örnek projeler\obj\Debug\net8.0\ref\örnek projeler.dll
