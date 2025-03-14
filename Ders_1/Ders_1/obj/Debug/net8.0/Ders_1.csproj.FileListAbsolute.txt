@@ -1,0 +1,14 @@
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\bin\Debug\net8.0\Ders_1.exe
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\bin\Debug\net8.0\Ders_1.deps.json
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\bin\Debug\net8.0\Ders_1.runtimeconfig.json
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\bin\Debug\net8.0\Ders_1.dll
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\bin\Debug\net8.0\Ders_1.pdb
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\Ders_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\Ders_1.AssemblyInfoInputs.cache
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\Ders_1.AssemblyInfo.cs
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\Ders_1.csproj.CoreCompileInputs.cache
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\Ders_1.dll
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\refint\Ders_1.dll
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\Ders_1.pdb
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\Ders_1.genruntimeconfig.cache
+C:\Users\saim4\Desktop\C#_Derslerim\Ders_1\Ders_1\obj\Debug\net8.0\ref\Ders_1.dll
