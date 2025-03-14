@@ -1,0 +1,28 @@
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.exe
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.deps.json
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.runtimeconfig.json
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.dll
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.pdb
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.AssemblyInfoInputs.cache
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.AssemblyInfo.cs
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.csproj.CoreCompileInputs.cache
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.dll
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\refint\adam_asmaca.dll
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.pdb
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.genruntimeconfig.cache
+C:\Users\saim4\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0\ref\adam_asmaca.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.exe
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.deps.json
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.runtimeconfig.json
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\bin\Debug\net8.0\adam_asmaca.pdb
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.GeneratedMSBuildEditorConfig.editorconfig
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.AssemblyInfoInputs.cache
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.AssemblyInfo.cs
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.csproj.CoreCompileInputs.cache
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\refint\adam_asmaca.dll
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.pdb
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\adam_asmaca.genruntimeconfig.cache
+D:\saim\uni4\C#_Derslerim\C# console dersleri ve uygulamaları\adam_asmaca\adam_asmaca\obj\Debug\net8.0\ref\adam_asmaca.dll
