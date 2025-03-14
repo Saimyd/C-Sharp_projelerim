@@ -1,0 +1,16 @@
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\bin\Debug\net8.0-windows\Dosya-Islemleri.exe
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\bin\Debug\net8.0-windows\Dosya-Islemleri.deps.json
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\bin\Debug\net8.0-windows\Dosya-Islemleri.runtimeconfig.json
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\bin\Debug\net8.0-windows\Dosya-Islemleri.dll
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\bin\Debug\net8.0-windows\Dosya-Islemleri.pdb
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya_Islemleri.Form1.resources
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.csproj.GenerateResource.cache
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.AssemblyInfoInputs.cache
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.AssemblyInfo.cs
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.csproj.CoreCompileInputs.cache
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.dll
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\refint\Dosya-Islemleri.dll
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.pdb
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\Dosya-Islemleri.genruntimeconfig.cache
+C:\Users\saim4\source\repos\Dosya-Islemleri\Dosya-Islemleri\obj\Debug\net8.0-windows\ref\Dosya-Islemleri.dll
