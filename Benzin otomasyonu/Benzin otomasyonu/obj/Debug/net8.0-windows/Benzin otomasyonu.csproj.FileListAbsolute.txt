@@ -1,0 +1,16 @@
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\bin\Debug\net8.0-windows\Benzin otomasyonu.exe
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\bin\Debug\net8.0-windows\Benzin otomasyonu.deps.json
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\bin\Debug\net8.0-windows\Benzin otomasyonu.runtimeconfig.json
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\bin\Debug\net8.0-windows\Benzin otomasyonu.dll
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\bin\Debug\net8.0-windows\Benzin otomasyonu.pdb
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin_otomasyonu.Form1.resources
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.csproj.GenerateResource.cache
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.AssemblyInfoInputs.cache
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.AssemblyInfo.cs
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.dll
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\refint\Benzin otomasyonu.dll
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.pdb
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\Benzin otomasyonu.genruntimeconfig.cache
+C:\Users\saim4\Desktop\C#_Derslerim\c# form\Benzin otomasyonu\Benzin otomasyonu\obj\Debug\net8.0-windows\ref\Benzin otomasyonu.dll
