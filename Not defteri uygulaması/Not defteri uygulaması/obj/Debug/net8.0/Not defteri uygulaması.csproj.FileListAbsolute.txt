@@ -1,0 +1,14 @@
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\bin\Debug\net8.0\Not defteri uygulaması.exe
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\bin\Debug\net8.0\Not defteri uygulaması.deps.json
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\bin\Debug\net8.0\Not defteri uygulaması.runtimeconfig.json
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\bin\Debug\net8.0\Not defteri uygulaması.dll
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\bin\Debug\net8.0\Not defteri uygulaması.pdb
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\Not defteri uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\Not defteri uygulaması.AssemblyInfoInputs.cache
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\Not defteri uygulaması.AssemblyInfo.cs
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\Not defteri uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\Not defteri uygulaması.dll
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\refint\Not defteri uygulaması.dll
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\Not defteri uygulaması.pdb
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\Not defteri uygulaması.genruntimeconfig.cache
+C:\Users\saim4\source\repos\Not defteri uygulaması\Not defteri uygulaması\obj\Debug\net8.0\ref\Not defteri uygulaması.dll
