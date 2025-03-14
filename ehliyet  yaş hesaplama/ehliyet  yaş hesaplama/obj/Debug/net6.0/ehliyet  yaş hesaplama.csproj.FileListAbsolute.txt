@@ -1,0 +1,14 @@
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\bin\Debug\net6.0\ehliyet  yaş hesaplama.exe
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\bin\Debug\net6.0\ehliyet  yaş hesaplama.deps.json
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\bin\Debug\net6.0\ehliyet  yaş hesaplama.runtimeconfig.json
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\bin\Debug\net6.0\ehliyet  yaş hesaplama.dll
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\bin\Debug\net6.0\ehliyet  yaş hesaplama.pdb
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ehliyet  yaş hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ehliyet  yaş hesaplama.AssemblyInfoInputs.cache
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ehliyet  yaş hesaplama.AssemblyInfo.cs
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ehliyet  yaş hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ehliyet  yaş hesaplama.dll
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\refint\ehliyet  yaş hesaplama.dll
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ehliyet  yaş hesaplama.pdb
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ehliyet  yaş hesaplama.genruntimeconfig.cache
+C:\Users\saim4\source\repos\ehliyet  yaş hesaplama\ehliyet  yaş hesaplama\obj\Debug\net6.0\ref\ehliyet  yaş hesaplama.dll

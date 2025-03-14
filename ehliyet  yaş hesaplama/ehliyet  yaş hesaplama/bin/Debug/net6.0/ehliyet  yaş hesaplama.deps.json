@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ehliyet  yaş hesaplama/1.0.0": {
+        "runtime": {
+          "ehliyet  yaş hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ehliyet  yaş hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
